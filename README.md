@@ -8,3 +8,6 @@ ___
 ## ***База данных***
 https://docs.google.com/document/d/1n3DQwU5nZWeUjDTqL8QlJI53TUFclWuGvgO-scOF4cI/edit 
 ___
+## ***Криминагенная ситуация в городе***
+https://docs.google.com/drawings/d/1E_uvf9PuGdaLNenLqJqsxo33N96JKr3f2N0by5Dcv2Y/edit
+___
