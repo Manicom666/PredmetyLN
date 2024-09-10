@@ -11,3 +11,6 @@ ___
 ## ***Криминагенная ситуация в городе***
 https://docs.google.com/drawings/d/1E_uvf9PuGdaLNenLqJqsxo33N96JKr3f2N0by5Dcv2Y/edit
 ___
+## ***Таблица криминал и т.д.***
+https://docs.google.com/spreadsheets/d/1ryT7ASYMd9jTEEfDa2hhNO1PpwHTcf0Tvm0nnaSyXjU/edit?gid=0#gid=0
+___
