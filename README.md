@@ -26,3 +26,6 @@ ___
 ## ***Таблица преступлений***
 https://docs.google.com/spreadsheets/d/179a83kxcKUszoha_8YOWtrIB028Rp1gh3n6_1FqFiyg/edit?gid=0#gid=0
 ___
+## ***Диаграмма по криминалу***
+https://docs.google.com/drawings/d/1E_uvf9PuGdaLNenLqJqsxo33N96JKr3f2N0by5Dcv2Y/edit
+___
