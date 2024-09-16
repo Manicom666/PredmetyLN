@@ -14,3 +14,15 @@ ___
 ## ***Таблица криминал и т.д.***
 https://docs.google.com/spreadsheets/d/1ryT7ASYMd9jTEEfDa2hhNO1PpwHTcf0Tvm0nnaSyXjU/edit?gid=0#gid=0
 ___
+## ***Таблица регистрации***
+https://docs.google.com/spreadsheets/d/1xVDJX9kf7BRsfqZBSJ0sukuTk1I8LN8-vKMm7aFuHFg/edit?gid=0#gid=0
+___
+## ***Таблица районов***
+https://docs.google.com/spreadsheets/d/1isXJM-pE05DlA5GceG_ia8koi_Mxad89WCaVI8clips/edit?gid=0#gid=0
+___
+## ***Таблица дежурных***
+https://docs.google.com/spreadsheets/d/1X6r8voAbOzO6zZdOCSJT1XBImK0_XLOV7DNvfuonVLU/edit?gid=0#gid=0
+___
+## ***Таблица преступлений***
+https://docs.google.com/spreadsheets/d/179a83kxcKUszoha_8YOWtrIB028Rp1gh3n6_1FqFiyg/edit?gid=0#gid=0
+___
