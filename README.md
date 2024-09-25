@@ -8,24 +8,18 @@ ___
 ## ***База данных***
 https://docs.google.com/document/d/1n3DQwU5nZWeUjDTqL8QlJI53TUFclWuGvgO-scOF4cI/edit 
 ___
-## ***Криминагенная ситуация в городе***
-https://docs.google.com/drawings/d/1E_uvf9PuGdaLNenLqJqsxo33N96JKr3f2N0by5Dcv2Y/edit
+##***Папка 1-я База Данных***
+https://drive.google.com/drive/folders/1cuV6mMC_giQq3Y6iCg1xV_-jstwJknry?usp=drive_link
 ___
-## ***Таблица криминал и т.д.***
-https://docs.google.com/spreadsheets/d/1ryT7ASYMd9jTEEfDa2hhNO1PpwHTcf0Tvm0nnaSyXjU/edit?gid=0#gid=0
+##***Папка 2-я База Данных***
+https://drive.google.com/drive/folders/1-6p-X_9vptO4cSps9MDkZAbwyYqtk1_F?usp=drive_link
 ___
-## ***Таблица регистрации***
-https://docs.google.com/spreadsheets/d/1xVDJX9kf7BRsfqZBSJ0sukuTk1I8LN8-vKMm7aFuHFg/edit?gid=0#gid=0
+##***Папка 3-я База Данных***
+https://drive.google.com/drive/folders/1bAA_mVSbfNVYctvsOnIxvNsS4DEd9u6Q?usp=drive_link
 ___
-## ***Таблица районов***
-https://docs.google.com/spreadsheets/d/1isXJM-pE05DlA5GceG_ia8koi_Mxad89WCaVI8clips/edit?gid=0#gid=0
+##***Папка ВПР 1, 2***
+https://drive.google.com/drive/folders/1kwFK_j4pAgiNslSvbSP99LBHYSMBOZnN?usp=drive_link
 ___
-## ***Таблица дежурных***
-https://docs.google.com/spreadsheets/d/1X6r8voAbOzO6zZdOCSJT1XBImK0_XLOV7DNvfuonVLU/edit?gid=0#gid=0
-___
-## ***Таблица преступлений***
-https://docs.google.com/spreadsheets/d/179a83kxcKUszoha_8YOWtrIB028Rp1gh3n6_1FqFiyg/edit?gid=0#gid=0
-___
-## ***Диаграмма по криминалу***
-https://docs.google.com/drawings/d/1E_uvf9PuGdaLNenLqJqsxo33N96JKr3f2N0by5Dcv2Y/edit
+##***Дистрибутивы***
+https://docs.google.com/document/d/15uFmat3MHSRzi_ulSf51ywMfO40Qkf9I/edit?usp=drive_link&ouid=115293895538033593037&rtpof=true&sd=true
 ___
