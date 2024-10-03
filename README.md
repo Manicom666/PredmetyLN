@@ -23,3 +23,6 @@ ___
 ##***Папка БД-Конкурсы***
 https://drive.google.com/drive/folders/1j2yUzubDjuDoniO99Vy6LQ3CXvm2BzyO?usp=drive_link
 ___
+## ***Низов Денис ИСП-23***
+https://drive.google.com/drive/folders/13684ZfOrkDbIgA39nibge7qhgXP8NkwW?usp=drive_link
+___
