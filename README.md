@@ -20,6 +20,6 @@ ___
 ##***Папка ВПР 1, 2***
 https://drive.google.com/drive/folders/1kwFK_j4pAgiNslSvbSP99LBHYSMBOZnN?usp=drive_link
 ___
-##***Дистрибутивы***
-https://docs.google.com/document/d/15uFmat3MHSRzi_ulSf51ywMfO40Qkf9I/edit?usp=drive_link&ouid=115293895538033593037&rtpof=true&sd=true
+##***Папка БД-Конкурсы***
+https://drive.google.com/drive/folders/1j2yUzubDjuDoniO99Vy6LQ3CXvm2BzyO?usp=drive_link
 ___
