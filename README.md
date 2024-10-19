@@ -26,3 +26,9 @@ ___
 ## ***"Низов Денис ИСП-23"***
 https://drive.google.com/drive/folders/13684ZfOrkDbIgA39nibge7qhgXP8NkwW?usp=drive_link :white_check_mark:
 ___
+## ***Новелла Twine: Тема SQL(Stepic + БД конкурсы пример)***
+https://drive.google.com/drive/folders/1nFdf3LxjBySo7CIXX4tayeATJHZvBH8W?usp=drive_link
+___
+## ***Тела вокруг нас***
+https://drive.google.com/drive/folders/1ab5h2gwa2McDPu36pMTTteSPwv6nEjGs?usp=drive_link
+___
