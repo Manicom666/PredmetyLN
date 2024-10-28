@@ -8,13 +8,13 @@ ___
 ## ***"База данных"***
 https://docs.google.com/document/d/1n3DQwU5nZWeUjDTqL8QlJI53TUFclWuGvgO-scOF4cI/edit :white_check_mark:
 ___
-## ***"Папка 1-я База Данных"***
+## ***"Папка 1-я База Данных - криминал"***
 https://drive.google.com/drive/folders/1cuV6mMC_giQq3Y6iCg1xV_-jstwJknry?usp=drive_link :white_check_mark:
 ___
-## ***"Папка 2-я База Данных"***
+## ***"Папка 2-я База Данных - учет"***
 https://drive.google.com/drive/folders/1-6p-X_9vptO4cSps9MDkZAbwyYqtk1_F?usp=drive_link :white_check_mark:
 ___
-## ***"Папка 3-я База Данных"***
+## ***"Папка 3-я База Данных - учет отказа оборудования + степик конспект, скрины, доп. БД запросы"***
 https://drive.google.com/drive/folders/1bAA_mVSbfNVYctvsOnIxvNsS4DEd9u6Q?usp=drive_link :white_check_mark:
 ___
 ## ***"Папка ВПР 1, 2"***
@@ -26,7 +26,7 @@ ___
 ## ***"Низов Денис ИСП-23"***
 https://drive.google.com/drive/folders/13684ZfOrkDbIgA39nibge7qhgXP8NkwW?usp=drive_link :white_check_mark:
 ___
-## ***Новелла Twine: Тема SQL(Stepic + БД конкурсы пример)***
+## ***Новелла Twine: Тема SQL(Stepic + БД учет отказа оборудования пример)***
 https://drive.google.com/drive/folders/1nFdf3LxjBySo7CIXX4tayeATJHZvBH8W?usp=drive_link
 ___
 ## ***Тела вокруг нас***
