@@ -15,7 +15,7 @@ ___
 https://drive.google.com/drive/folders/1-6p-X_9vptO4cSps9MDkZAbwyYqtk1_F?usp=drive_link :white_check_mark:
 ___
 ## ***"Папка 3-я База Данных - учет отказа оборудования + степик конспект, скрины, доп. БД запросы"***
-https://drive.google.com/drive/folders/1bAA_mVSbfNVYctvsOnIxvNsS4DEd9u6Q?usp=drive_link :white_check_mark:
+https://drive.google.com/drive/folders/1bAA_mVSbfNVYctvsOnIxvNsS4DEd9u6Q?usp=drive_link 
 ___
 ## ***"Папка ВПР 1, 2"***
 https://drive.google.com/drive/folders/1kwFK_j4pAgiNslSvbSP99LBHYSMBOZnN?usp=drive_link :white_check_mark:
@@ -27,8 +27,11 @@ ___
 https://drive.google.com/drive/folders/13684ZfOrkDbIgA39nibge7qhgXP8NkwW?usp=drive_link :white_check_mark:
 ___
 ## ***Новелла Twine: Тема SQL(Stepic + БД учет отказа оборудования пример)***
-https://drive.google.com/drive/folders/1nFdf3LxjBySo7CIXX4tayeATJHZvBH8W?usp=drive_link
+https://drive.google.com/drive/folders/1nFdf3LxjBySo7CIXX4tayeATJHZvBH8W?usp=drive_link 
 ___
 ## ***Тела вокруг нас***
-https://drive.google.com/drive/folders/1ab5h2gwa2McDPu36pMTTteSPwv6nEjGs?usp=drive_link
+https://drive.google.com/drive/folders/1ab5h2gwa2McDPu36pMTTteSPwv6nEjGs?usp=drive_link :white_check_mark:
+___
+## ***БД и таблицы - книги и тур агенство***
+https://drive.google.com/drive/folders/1Ss8WE0-FOcxwAQU7pC0EVVq18NhDRBbQ?usp=drive_link :white_check_mark:
 ___
