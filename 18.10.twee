@@ -1,0 +1,86 @@
+:: StoryTitle
+Новелла SQL
+
+
+:: StoryData
+{
+  "ifid": "D1BC1CCE-731B-481D-B74E-326C7BDA7D11",
+  "format": "Harlowe",
+  "format-version": "3.3.9",
+  "start": "Введение",
+  "zoom": 1
+}
+
+
+:: Close {"position":"500,675","size":"100,100"}
+<script>
+window.close();
+</script>
+
+
+:: SQL {"position":"300,475","size":"100,100"}
+<img 
+src="https://i.pinimg.com/originals/0e/9a/73/0e9a7351d26a4ce31f276b4319ba1971.gif" alt="Описание героя" style="width: 150px; height: auto;">
+<div style="background-color: rgba(28, 28, 28, 0.5); padding: 10px; position: absolute; top: 50px; left: 370px;">(text-style:"bold","outline")[(b4r:"dashed","none")+(b4r-colour:black,grey)[(text-colour:black)[SQL (Structured Query Language) — это декларативный язык программирования (язык запросов), который используют для создания, обработки и хранения данных в реляционных базах данных. 
+На чистом SQL нельзя написать программу — он предназначен только для взаимодействия с базами данных: получения, добавления, изменения и удаления информации в них, управления доступом и так далее. ]]]</div>
+[[Главные задачи SQL]]
+
+
+:: Введение {"position":"450,275","size":"100,100"}
+<img 
+src="https://i.pinimg.com/originals/0e/9a/73/0e9a7351d26a4ce31f276b4319ba1971.gif" alt="Описание героя" style="width: 200px; height: auto;">
+ [[Хотите изменить имя?]] 
+(bg:#495057)[Здравствуйте  я Низов Денис Романович. 
+1.Я расскажу что такое SQL 
+2.Главные задачи SQL
+3.С помощью SQL можно]
+[[SQL]]|[[Главные задачи SQL]]|[[С помощю SQL можно]]
+
+
+:: Главные задачи SQL {"position":"500,525","size":"100,100"}
+<img 
+src="https://i.pinimg.com/originals/0e/9a/73/0e9a7351d26a4ce31f276b4319ba1971.gif" alt="Описание героя" style="width: 200px; height: auto;">
+
+<div style="background-color: rgba(28, 28, 28, 0.5); padding: 10px; position: absolute; top: 50px; left: 370px;">(text-style:"bold","outline")[(b4r:"dashed","none")+(b4r-colour:black,grey)[(text-colour:black)[Главные задачи SQL — составлять запросы так, чтобы находить среди большого объёма информации ту, что нужна для конкретных целей, сортировать её, структурировать и представлять в наиболее простом и понятном виде.]]]</div>
+
+
+[[С помощю SQL можно->SQL]]
+[[Закрыть->Close]]
+[[Введение->Введение]]
+
+
+:: С помощю SQL можно {"position":"625,525","size":"100,100"}
+<img 
+src="https://i.pinimg.com/originals/0e/9a/73/0e9a7351d26a4ce31f276b4319ba1971.gif" alt="Описание героя" style="width: 200px; height: auto;">
+(bg:#495057)[ С помощью SQL можно:
+собирать и хранить данные в виде таблиц; 
+изменять их содержимое и структуру; 
+объединять данные и выполнять вычисления;
+защищать и распределять доступ.] 
+[[Введение]]
+
+
+:: Хотите изменить имя? {"position":"625,275","size":"100,100"}
+<img 
+src="https://i.pinimg.com/originals/0e/9a/73/0e9a7351d26a4ce31f276b4319ba1971.gif" alt="Описание героя" style="width: 200px; height: auto;">
+(set:$fio to(prompt:"Как вас зовут?",""))
+Здравствуйте $fio  сейчас мы начнём наш увлекательный урок по SQL
+[[Введение]]
+
+
+:: StoryStylesheet [stylesheet]
+tw-link
+{
+  color:#FFFFFF;
+}
+
+tw-story
+{
+  font-family:Arial;
+  font-size: 22px;
+}
+
+tw-story {
+  background-image:url("https://i.pinimg.com/736x/a9/83/07/a983073598c8ea8f15bed9c4003e7af9.jpg");
+ background-size:cover;
+}
