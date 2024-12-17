@@ -35,3 +35,6 @@ ___
 ## ***БД и таблицы - книги и тур агенство***
 https://drive.google.com/drive/folders/1Ss8WE0-FOcxwAQU7pC0EVVq18NhDRBbQ?usp=drive_link :white_check_mark:
 ___
+## ***Структура базы данных записная книжка***
+https://drive.google.com/drive/folders/1mdE35j_udWlLCAPOysYUfOFzi55OjTcj?usp=drive_link
+___
