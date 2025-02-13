@@ -38,7 +38,7 @@ ___
 ## ***Структура базы данных записная книжка***
 https://drive.google.com/drive/folders/1mdE35j_udWlLCAPOysYUfOFzi55OjTcj?usp=drive_link
 ___
-##***Пк Сети***
+## ***Пк Сети***
 https://drive.google.com/drive/folders/1jmAYzrUSaRpihdjjKjQ8QmnCZd1mBz9K
 ___
 
